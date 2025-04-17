@@ -1,22 +1,21 @@
-# Olá! <img src="./assets/631540_hero_man_saver_spider_spiderman_icon.svg" width="50"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+# Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 ## Backend Developer
-- ⚙ Me aprofundando no ecossistema .NET e no mundo da arquitetura de software
-- ☁ Me aventurando pela cloud 
-- 🕷 Fã do nosso amigo da vizinhança Spider-man
+- ⚙ Deepening my knowledge in the .NET ecosystem and diving into the world of software architecture.
+- ☁️ Exploring the clouds (literally) — studying AWS and Azure, learning about deploys, messaging systems, and other infrastructure madness.
+- 🔍 Currently open to new opportunities in the tech market!
+- 🕷 Fan of our friendly neighborhood Spider-Man.
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_EXPAND_ICONFINDER_COLOR_TECHNOLOGY-01_3970121.svg" width="60"> Technologies
 <div>
-    <img align="left" alt="NodeJS" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/> 
-    <img align="left" alt=".NET" width="26px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"/>
-    <img align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/> 
-    <img align="left" alt="SQL server" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>
-    <img align="left" alt="Postgres" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Typescript" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/> 
-<img align="left" alt="Javascript" width="26px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"/> 
-<img align="left" alt="React and React Native" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
+    <img align="left" alt="Dotnet" width="26px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"/>
+    <img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/>
+    <img align="left" alt="PostgresSql" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>
+    <img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
+    <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+    <img align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>
+    <img align="left" alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"/>
+    <img align="left" alt="RabbitMQ" width="26px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"/>
 </div>
 <br/>
 
